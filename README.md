@@ -102,6 +102,6 @@ Total active dispersed loans across the corporate portfolio (**Total Dispersed: 
 ---
 **Dashboard Preview**
 
-![Dashboard Snapshot](https://github.com/the-bipul-kumar/USA-FINANCIAL-DATA/blob/main/financial_page1.png)
+![Dashboard Snapshot](https://github.com/the-sejal/customer-credit-and-loan-analytics/blob/main/report%20page%201.png)
+![Dashboard Snapshot](https://github.com/the-sejal/customer-credit-and-loan-analytics/blob/main/report%20page%201.png)
 
-![Dashboard Snapshot](https://github.com/the-bipul-kumar/USA-FINANCIAL-DATA/blob/main/financial_page2.png)
